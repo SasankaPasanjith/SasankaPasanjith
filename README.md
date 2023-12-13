@@ -2,7 +2,6 @@
 <h1 align="center">I'm Sasanka Pasanjith</h1>
 <h3 align="center">A Software Engineering Student from Colombo, Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasankapasanjith&label=Profile%20views&color=0e75b6&style=flat" alt="sasankapasanjith" /> </p>
 
 - I’m currently learning **Java, Spring Boot & JavaScript.**
 
