@@ -3,7 +3,7 @@
 <h3 align="center">A Software Engineering Student from Colombo, Sri Lanka</h3>
 
 
-- I’m currently learning **Java, Spring Boot & JavaScript.**
+- I’m currently learning **Java, Spring Boot, JavaScript, Python & Machine Learning .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
