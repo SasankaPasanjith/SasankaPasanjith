@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasanka Pasanjith</h1>
-<h3 align="center">A Software Engineering Student from Colombo, Sri Lanka</h3>
+<h3 align="center">A Software Engineering Graduate from Colombo, Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Java, Spring Boot, JavaScript & React**
+- 🌱 I’m currently learning & working with **PowerBI, Jupyter Notebooks, Google Sheets & Microsoft Excel**
 
 - 👨‍💻 All of my projects are available at [sasankapasanjith-portfolio](https://sasankapasanjith-portfolio.netlify.app/)
 
